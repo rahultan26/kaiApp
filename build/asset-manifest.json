@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kaiApp/static/css/main.6107e441.css",
+    "main.js": "/kaiApp/static/js/main.d06007cb.js",
+    "static/js/787.ffdc7326.chunk.js": "/kaiApp/static/js/787.ffdc7326.chunk.js",
+    "static/media/logo.svg": "/kaiApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kaiApp/index.html",
+    "main.6107e441.css.map": "/kaiApp/static/css/main.6107e441.css.map",
+    "main.d06007cb.js.map": "/kaiApp/static/js/main.d06007cb.js.map",
+    "787.ffdc7326.chunk.js.map": "/kaiApp/static/js/787.ffdc7326.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6107e441.css",
+    "static/js/main.d06007cb.js"
+  ]
+}
