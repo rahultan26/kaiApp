@@ -1,0 +1,21 @@
+.container {
+  margin-top: 10%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: centre;
+}
+.item {
+  width: 48%;
+  height: 75px;
+  margin: 10px;
+}
+@media screen and (max-width: 480px) {
+  .container {
+    margin-top: 5%;
+    justify-content: center;
+  }
+
+  .item {
+    width: 90%;
+  }
+}

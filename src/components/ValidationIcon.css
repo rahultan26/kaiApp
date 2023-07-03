@@ -1,0 +1,29 @@
+.validation-icon {
+  position: relative;
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+  border-radius: 50%;
+  overflow: hidden; /* Ensure the background is contained within the circle */
+  margin: 10px;
+}
+
+.background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 255, 0, 0.5);
+  filter: blur(10px); /* Adjust the blur intensity as desired */
+  border-radius: 50%;
+}
+
+.tick {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 150px;
+  height: 150px;
+}
